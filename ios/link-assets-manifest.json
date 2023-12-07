@@ -1,0 +1,169 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/activitiesphotogradient.png",
+      "sha1": "33d986f06537a4f3361273d086c2078046c6f695"
+    },
+    {
+      "path": "src/assets/activities_heart.png",
+      "sha1": "1754ce3f7cfbed0f93b24ad053a23505452ff169"
+    },
+    {
+      "path": "src/assets/applepay.png",
+      "sha1": "b07ad1587af94f0fb97943a7868d9460c83369ce"
+    },
+    {
+      "path": "src/assets/blur_effect.png",
+      "sha1": "a634a9d8694dd7f360f33f87476dddf6855b7027"
+    },
+    {
+      "path": "src/assets/callbackground.png",
+      "sha1": "df27ef95689cc97d63277129af3f8aed8bc57cc6"
+    },
+    {
+      "path": "src/assets/congo.png",
+      "sha1": "d27656d1d98b8a37c450d66689392859d4733cbb"
+    },
+    {
+      "path": "src/assets/dates/arcade.png",
+      "sha1": "b545309fda5129e0b3ffcfae931d7ac3d5a34633"
+    },
+    {
+      "path": "src/assets/dates/archery.png",
+      "sha1": "a0a93ffe542ad2dbd99d323226c159c8a59d91b7"
+    },
+    {
+      "path": "src/assets/dates/artworkshop.png",
+      "sha1": "5b0c743786f31f038db02b37ae8292d1e69037a6"
+    },
+    {
+      "path": "src/assets/dates/beach.png",
+      "sha1": "d53427dcc67d3fabd8f13d4352e362701f848f28"
+    },
+    {
+      "path": "src/assets/dates/billiards.png",
+      "sha1": "b1d5b21ad6cab6ec93f635a50008565032a218ce"
+    },
+    {
+      "path": "src/assets/dates/birdwatching.png",
+      "sha1": "bd6076f1304b607dcbde43ce06d20dc04d4616b8"
+    },
+    {
+      "path": "src/assets/dates/bowling.png",
+      "sha1": "c9b2cd8c983b7c398fb4d03aa8e6c07b2d8cb63c"
+    },
+    {
+      "path": "src/assets/dates/camping.png",
+      "sha1": "c09748141951835b520d3af178ba1070930ba31b"
+    },
+    {
+      "path": "src/assets/dates/canoeing.png",
+      "sha1": "ed5ac4774b4c72655cab2a91dacc51a7e69f9451"
+    },
+    {
+      "path": "src/assets/dates/concert.png",
+      "sha1": "0a30968892e159c22257f3846326277da3d77525"
+    },
+    {
+      "path": "src/assets/dates/cooking.png",
+      "sha1": "4bbeff2e2d59952e544c7cc74d88100e81053f92"
+    },
+    {
+      "path": "src/assets/dates/cycling.png",
+      "sha1": "a8b8343b8427c008a08378fa5fc52e0040e857fb"
+    },
+    {
+      "path": "src/assets/dates/fishing.png",
+      "sha1": "989f2bb9af5d7bfb134e91b71fb616f294aa781b"
+    },
+    {
+      "path": "src/assets/dates/flowerpicking.png",
+      "sha1": "38d08cd4f65f761ca4742831ce7ad2165c075504"
+    },
+    {
+      "path": "src/assets/dates/forest.png",
+      "sha1": "1cadbb4abf2392a65122446f88e5103d27b6b3ac"
+    },
+    {
+      "path": "src/assets/dates/gamenight.png",
+      "sha1": "395c34389f0f4d4926d964840babd370a6bd7668"
+    },
+    {
+      "path": "src/assets/dates/hightea.png",
+      "sha1": "4bc43635285151c6b0ed907961a28a48caf69ff9"
+    },
+    {
+      "path": "src/assets/dates/hiking.png",
+      "sha1": "9a06c218a4dfd1233a32d2c2cab3e4ce1011291a"
+    },
+    {
+      "path": "src/assets/dates/hotairballoon.png",
+      "sha1": "b95f076a604f92359f3209ae161fb403d9b8d36f"
+    },
+    {
+      "path": "src/assets/dates/jogging.png",
+      "sha1": "50116e7fb2ed2b0b9cadea9cdae98dcfd7401eaa"
+    },
+    {
+      "path": "src/assets/dates/restaurant.png",
+      "sha1": "26287641088581aedea971982393f7c98ec2af5f"
+    },
+    {
+      "path": "src/assets/dates/swimming.png",
+      "sha1": "28e812071f31dce811a3629473421d8fdd328286"
+    },
+    {
+      "path": "src/assets/dates/winetasting.png",
+      "sha1": "89c206249fb7a5261b8c625f399d0478d54af863"
+    },
+    {
+      "path": "src/assets/dates/zoo.png",
+      "sha1": "e7fe6b38942ddbd4f834784c9b0474e27ea628d9"
+    },
+    {
+      "path": "src/assets/delete.png",
+      "sha1": "134a6125bb91884ec106563256670ec250f57819"
+    },
+    {
+      "path": "src/assets/dots.png",
+      "sha1": "e07b884021f908d5b1eae0bafcc2dac0b993cd55"
+    },
+    {
+      "path": "src/assets/get_logo.png",
+      "sha1": "055b4c3456783457a1556c9439b42f3860f09550"
+    },
+    {
+      "path": "src/assets/gpay.png",
+      "sha1": "368f27d9d697478d7fbdda86451337d2bf7b449b"
+    },
+    {
+      "path": "src/assets/heart.png",
+      "sha1": "59cf077661700b70661c5d10d2ecf57a81fed17f"
+    },
+    {
+      "path": "src/assets/payment_background.png",
+      "sha1": "a50c10f2a14e6bd6b06b0eca7ad269ca6e12c533"
+    },
+    {
+      "path": "src/assets/payment_curve.png",
+      "sha1": "7731a1c53a26616dd8d2509b5375f6355cf07cf2"
+    },
+    {
+      "path": "src/assets/paypal.png",
+      "sha1": "bf2cfcb2494a2d749217152ef53dc0ce2e062e07"
+    },
+    {
+      "path": "src/assets/sliderthumb.png",
+      "sha1": "78705d8e3a1e5bf2dd4e3b803a64ee1c0d888833"
+    },
+    {
+      "path": "src/assets/splash_logo.png",
+      "sha1": "ac6029940332ae9ec224afe853fb502aff6f9b3f"
+    },
+    {
+      "path": "src/assets/verifiedCode.png",
+      "sha1": "87d4b055533ad9da2f51ed9f5938a95b62059e9b"
+    }
+  ]
+}

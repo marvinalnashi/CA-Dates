@@ -1,0 +1,35 @@
+'use strict';
+
+let messages = {
+  enterPhoneNumber: 'Please enter your phone number',
+  enterVerifyOtp: 'Please enter the verification code you have received',
+  enterFullName: 'Please enter your full name',
+  enterUserName: 'Please enter your username',
+  enterValidUserName: 'Your username can only contain letters and numbers, may not have any special characters and must be between 3 and 20 characters long',
+  enterEmail: 'Please enter your email address',
+  enterValidEmail: 'Please enter a valid email address',
+  enterDOB: 'Please select your date of birth',
+  enterHeight: 'Please select your height',
+  enterParty: 'Please select your partying frequency',
+  enterGender: 'Please select your gender',
+  enterKids: 'Please select your desired amount of kids to have',
+  selectProfile: 'Please select your profile picture',
+  enterPassword: 'Please enter your password',
+  enterNumberValidPassword: 'Your password must be between 6 and 16 characters long',
+  enterValidPassword: 'Your password can only contain letters and numbers, may not have any spaces and must be between 6 and 16 characters long',
+  enterOldPassword: 'Please enter your old password',
+  enterNewPassword: 'Please enter your new password',
+  enterValidNewPassword: 'Your new password can only contain letters and numbers, may not have any spaces and must be between 6 and 16 characters long',
+  enterConfirmPassword: 'Please confirm your entered password',
+  passwordCompare: 'Your confirmed password does not match your first entered password',
+  updateData: 'The update was successful',
+  addCalenderSuccess: 'Your appointment is successfully saved in your calender',
+  logout: 'Are you sure you want to logout?',
+  somethingWrong: 'Something went wrong',
+  deleteMsg: 'Are you sure you want to delete this account?',
+  activitiesDate: 'Please select a future date and time',
+  activitiesAddress: 'Please enter a full address in the following format: Street + Number, City/Town',
+  activitiesNote: 'Please enter a note',
+};
+
+module.exports = messages;

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "785645135502",
+    "project_id": "cadates2",
+    "storage_bucket": "cadates2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785645135502:android:8d0a3b20cc1f9f163fcbdf",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785645135502-e5n2b3569a48dndhkkb0e27khfmrvs8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example",
+            "certificate_hash": "567aa612eeb663d20194a9e83a00297882013234"
+          }
+        },
+        {
+          "client_id": "785645135502-j0j4r5i7en2d1jsdsh997e5gt46qenu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0TE6NVYrUG5pCtaM6Z8g0jf_3VwI6tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785645135502-j0j4r5i7en2d1jsdsh997e5gt46qenu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785645135502-u0tucs2j8pvvni0f6eof618m1g3e2hmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearise.dates"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
